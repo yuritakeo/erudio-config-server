@@ -8,5 +8,5 @@ management:
         include:s
         - '*'
 greeting-service:
-  greeting: "Olá"
+  greeting: "Olá Prod"
   default-value: "Prod"
