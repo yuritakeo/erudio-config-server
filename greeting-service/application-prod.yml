@@ -5,8 +5,8 @@ management:
   endpoints:
     web:
       exposure:
-        include:
+        include:s
         - '*'
 greeting-service:
-  greeting: "Ciao"
+  greeting: "Olá"
   default-value: "Prod"
